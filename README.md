@@ -3,7 +3,7 @@
 Bem-vindo ao **Dashboard de Recursos Humanos**! 🚀 Este painel interativo proporciona uma visão detalhada da força de trabalho da empresa, permitindo o acompanhamento de contratações, desligamentos e outros indicadores essenciais de RH. Com ele, é possível analisar dados estratégicos e tomar decisões embasadas para melhorar a gestão de pessoas. 📊
 
 ## 📸 **Preview do Dashboard**
-![Image](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93)
+![Image](https://github.com/user-attachments/assets/7a60d034-facc-41d4-8ee8-937ac9c2bb0e)
 
 ## 📌 Visão Geral
 Este dashboard foi desenvolvido no **Power BI** para oferecer insights essenciais sobre a gestão de recursos humanos, permitindo uma análise detalhada de indicadores importantes como:
