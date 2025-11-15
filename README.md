@@ -196,5 +196,4 @@ Este projeto está licenciado sob uma Licença Proprietária.
 </div>
 
 
-**Opção 3 (Curta e Direta):**
-> Análise completa da força de trabalho em um dashboard de Power BI. Insights sobre turnover, contratações e perfil da equipe para uma gestão de RH mais eficiente.
+
